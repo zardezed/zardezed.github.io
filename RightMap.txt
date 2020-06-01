@@ -1,0 +1,56 @@
+<map name="untitled">
+
+<area shape="rect" coords="66,9,112,51" title="1" href="#">
+<area shape="rect" coords="382,104,443,160" title="2" href="#">
+<area shape="rect" coords="601,137,655,177" title="3" href="#">
+<area shape="rect" coords="627,96,672,128" title="4" href="#">
+<area shape="rect" coords="681,105,713,146" title="5" href="#">
+<area shape="rect" coords="640,229,692,277" title="6" href="#">
+<area shape="rect" coords="713,157,753,207" title="7" href="#">
+<area shape="rect" coords="773,151,816,195" title="8" href="#">
+<area shape="rect" coords="817,80,864,116" title="9" href="#">
+<area shape="rect" coords="834,130,869,164" title="10" href="#">
+<area shape="rect" coords="886,136,937,183" title="11" href="#">
+<area shape="rect" coords="964,93,1012,145" title="12" href="#">
+<area shape="rect" coords="1025,152,1067,189" title="13" href="#">
+<area shape="rect" coords="1030,90,1072,130" title="14" href="#">
+<area shape="rect" coords="1081,79,1123,118" title="15" href="#">
+<area shape="rect" coords="1092,133,1132,170" title="16" href="#">
+<area shape="rect" coords="1143,71,1184,108" title="17" href="#">
+<area shape="rect" coords="1156,124,1196,163" title="18" href="#">
+<area shape="rect" coords="1216,56,1265,100" title="19" href="#">
+<area shape="rect" coords="1223,114,1265,154" title="20" href="#">
+<area shape="rect" coords="1274,84,1316,136" title="21" href="#">
+<area shape="rect" coords="1445,78,1499,123" title="22" href="#">
+<area shape="rect" coords="1503,248,1549,283" title="23" href="#">
+<area shape="rect" coords="1479,372,1525,423" title="24" href="#">
+<area shape="rect" coords="1583,376,1635,424" title="25" href="#">
+<area shape="rect" coords="1637,363,1677,411" title="26" href="#">
+<area shape="rect" coords="1712,360,1755,408" title="27" href="#">
+<area shape="rect" coords="1825,362,1884,415" title="28" href="#">
+<area shape="rect" coords="1866,453,1926,512" title="29" href="#">
+<area shape="rect" coords="1762,439,1809,482" title="30" href="#">
+<area shape="rect" coords="1678,455,1736,504" title="31" href="#">
+<area shape="rect" coords="1549,459,1600,507" title="32" href="#">
+<area shape="rect" coords="1484,452,1536,509" title="33" href="#">
+<area shape="rect" coords="929,471,984,525" title="34" href="#">
+<area shape="rect" coords="810,462,870,518" title="35" href="#">
+<area shape="rect" coords="701,468,759,522" title="36" href="#">
+<area shape="rect" coords="799,698,879,766" title="37" href="#">
+<area shape="rect" coords="620,688,680,753" title="38" href="#">
+<area shape="rect" coords="526,457,584,512" title="39" href="#">
+<area shape="rect" coords="435,466,493,528" title="40" href="#">
+<area shape="rect" coords="318,393,380,453" title="41" href="#">
+<area shape="rect" coords="278,462,333,506" title="42" href="#">
+<area shape="rect" coords="208,400,262,456" title="43" href="#">
+<area shape="rect" coords="127,387,193,461" title="44" href="#">
+<area shape="rect" coords="50,412,104,465" title="45" href="#">
+<area shape="rect" coords="10,348,54,390" title="46" href="#">
+<area shape="rect" coords="20,512,76,574" title="47" href="#">
+<area shape="rect" coords="147,508,203,570" title="48" href="#">
+<area shape="rect" coords="13,673,66,738" title="49" href="#">
+<area shape="rect" coords="170,660,240,739" title="50" href="#">
+<area shape="rect" coords="309,662,382,735" title="51" href="#">
+<area shape="rect" coords="476,677,549,751" title="52" href="#">
+
+</map>

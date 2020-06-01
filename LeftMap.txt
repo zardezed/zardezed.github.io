@@ -1,0 +1,37 @@
+<map name="untitled">
+
+<area shape="rect" coords="49,643,122,715" title="1" href="#">
+<area shape="rect" coords="231,647,283,716" title="2" href="#">
+<area shape="rect" coords="323,642,385,716" title="3" href="#">
+<area shape="rect" coords="454,634,526,701" title="4" href="#">
+<area shape="rect" coords="577,638,641,720" title="5" href="#">
+<area shape="rect" coords="811,635,880,712" title="6" href="#">
+<area shape="rect" coords="911,653,967,726" title="7" href="#">
+<area shape="rect" coords="1016,647,1080,728" title="8" href="#">
+<area shape="rect" coords="1147,687,1227,766" title="9" href="#">
+<area shape="rect" coords="1299,678,1366,762" title="10" href="#">
+<area shape="rect" coords="1410,637,1483,716" title="11" href="#">
+<area shape="rect" coords="1566,664,1646,756" title="12" href="#">
+<area shape="rect" coords="1659,678,1735,763" title="13" href="#">
+<area shape="rect" coords="1792,662,1879,734" title="14" href="#">
+<area shape="rect" coords="1890,654,1958,735" title="15" href="#">
+<area shape="rect" coords="1923,747,1996,825" title="16" href="#">
+<area shape="rect" coords="1798,755,1889,832" title="17" href="#">
+<area shape="rect" coords="1836,967,1923,1062" title="18" href="#">
+<area shape="rect" coords="1690,943,1796,1053" title="19" href="#">
+<area shape="rect" coords="1556,919,1668,1031" title="20" href="#">
+<area shape="rect" coords="1394,973,1499,1080" title="21" href="#">
+<area shape="rect" coords="1224,970,1316,1069" title="22" href="#">
+<area shape="rect" coords="1130,955,1211,1053" title="23" href="#">
+<area shape="rect" coords="1001,980,1083,1068" title="24" href="#">
+<area shape="rect" coords="873,951,949,1038" title="25" href="#">
+<area shape="rect" coords="778,955,858,1031" title="26" href="#">
+<area shape="rect" coords="1875,118,1939,184" title="27" href="#">
+<area shape="rect" coords="1691,54,1759,135" title="28" href="#">
+<area shape="rect" coords="1622,108,1684,186" title="29" href="#">
+<area shape="rect" coords="1544,99,1600,154" title="30" href="#">
+<area shape="rect" coords="1247,207,1303,273" title="31" href="#">
+<area shape="rect" coords="1173,183,1235,250" title="32" href="#">
+<area shape="rect" coords="1070,197,1139,268" title="33" href="#">
+
+</map>
